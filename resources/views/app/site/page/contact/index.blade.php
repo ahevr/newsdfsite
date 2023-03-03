@@ -84,7 +84,7 @@ hizmet etmenin sevincini yaşamaktayız. Tüm Türkiye'ye ürün gönderen firma
                                     <p class="font-bold mb-1">{{__('messages.working_hours')}}</p>
                                     <p class="text-gray-500 text-sm">
                                         Hafta İçi : 08:30 - 18:45 <br />
-                                        Hafta Sonu : 08:30 - 15:00(Showroomm)
+                                        Hafta Sonu : 08:30 - 15:00(Showroom)
                                     </p>
                                 </div>
                             </div>
